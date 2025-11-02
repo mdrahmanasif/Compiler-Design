@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1762068478 source:c:\users\msi\onedrive\desktop\ai\compiler design\q1.cpp
+	<iostream>
+
+1762094203 source:c:\users\msi\onedrive\desktop\ai\compiler design\main.cpp
+	<iostream>
+	"q1.h"
+	"q2.h"
+	"q3.h"
+	"q4.h"
+	"q5.h"
+	"q6.h"
+	"q7.h"
+
+1762068462 c:\users\msi\onedrive\desktop\ai\compiler design\q1.h
+
+1762068906 source:c:\users\msi\onedrive\desktop\ai\compiler design\q2.cpp
+	<iostream>
+
+1762068909 c:\users\msi\onedrive\desktop\ai\compiler design\q2.h
+
+1762069463 c:\users\msi\onedrive\desktop\ai\compiler design\q3.h
+
+1762069575 source:c:\users\msi\onedrive\desktop\ai\compiler design\q3.cpp
+	<iostream>
+	<string>
+
+1762071608 source:c:\users\msi\onedrive\desktop\ai\compiler design\q4.cpp
+	<iostream>
+
+1762072305 source:c:\users\msi\onedrive\desktop\ai\compiler design\q5.cpp
+	<iostream>
+
+1762073013 source:c:\users\msi\onedrive\desktop\ai\compiler design\q6.cpp
+	<iostream>
+
+1762071608 c:\users\msi\onedrive\desktop\ai\compiler design\q4.h
+
+1762072309 c:\users\msi\onedrive\desktop\ai\compiler design\q5.h
+
+1762072997 c:\users\msi\onedrive\desktop\ai\compiler design\q6.h
+
+1762073504 c:\users\msi\onedrive\desktop\ai\compiler design\q7.h
+
+1762073469 source:c:\users\msi\onedrive\desktop\ai\compiler design\q7.cpp
+	<iostream>
+

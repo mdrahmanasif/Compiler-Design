@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+int q6A() {
+    int n;
+    cout << "Enter the number of elements: ";
+    cin >> n;
+int arr[100];
+cout << "Enter " << n << " elements:\n";
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
+int min = arr[0];
+    int max = arr[0];
+for (int i = 1; i < n; i++) {
+        if (arr[i] < min)
+    min = arr[i];
+        if (arr[i] > max)
+            max = arr[i];
+    }
+cout << "Minimum value = " << min << endl;
+ cout << "Maximum value = " << max << endl;
+ return 0;
+}
+
